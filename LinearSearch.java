@@ -1,4 +1,4 @@
-package edu.usfca.cs.cs245;
+//package edu.usfca.cs.cs245;
 
 public class LinearSearch implements Practice2Search {
 
@@ -7,7 +7,9 @@ public class LinearSearch implements Practice2Search {
 		
 		
 		
-
+/*
+Way too much whitespace
+*/
 		return "this is a linear search";
 	}
 
